@@ -1,6 +1,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
-  background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet); 
+  background-color: red;
+  background-image: repeating-linear-gradient(45deg, red,white); 
   color:white;
 }
