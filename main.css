@@ -2,6 +2,7 @@ body {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
   background-color: red;
-  background: repeating-linear-gradient(45deg, red, blue 2%, white 2%);; 
+  background: repeating-linear-gradient(45deg, red, blue 2%, white 2%);
+  background-repeat: no-repeat;
   color:white;
 }
