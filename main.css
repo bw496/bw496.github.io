@@ -1,8 +1,11 @@
-body {
-  font-family: 'Roboto', sans-serif;
-  font-weight: 300;
+html{
   background-color: red;
   background: repeating-linear-gradient(45deg, red, blue 2%, white 2%);
   background-repeat: no-repeat;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
   color:white;
 }
