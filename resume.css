@@ -14,5 +14,7 @@ body {
 }
 
 #resume{
+  height: 95%;
+  width: 95%;
   padding: 2.5%, 2.5%, 2.5%, 2.5%;
 }
