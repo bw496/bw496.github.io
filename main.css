@@ -16,12 +16,13 @@ body {
 }
 
 #title_bar{
-	width: 99%;
-	height: 180px;
+	width: 100%;
+	height: 5%;
 	margin: 2.5%, 2.5%, 2.5%, 2.5%;
 }
 
 #main_text{
 	width: 100%;
-	height: 90%;
+	height: 100%;
+	margin: 2.5%, 2.5%, 2.5%, 2.5%;
 }
